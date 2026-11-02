@@ -5,7 +5,7 @@
 SysTuklas is a Python-based desktop application designed to monitor, analyze, and diagnose computer performance. It provides real-time system information and easy-to-understand diagnostic suggestions to help users identify potential performance issues.
 
 ![image](https://github.com/joshuaarao42-arch/SysTuklas/blob/main/IMAGES/Screenshot%202026-11-02%20143403.png?raw=true)
-![image]()
+![image](https://github.com/joshuaarao42-arch/SysTuklas/blob/main/IMAGES/Screenshot%202026-11-02%20143420.png?raw=true)
 ![image]()
 ![image]()
 ![image]()
