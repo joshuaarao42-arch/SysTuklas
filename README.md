@@ -7,7 +7,7 @@ SysTuklas is a Python-based desktop application designed to monitor, analyze, an
 ![image](https://github.com/joshuaarao42-arch/SysTuklas/blob/main/IMAGES/Screenshot%202026-11-02%20143403.png?raw=true)
 ![image](https://github.com/joshuaarao42-arch/SysTuklas/blob/main/IMAGES/Screenshot%202026-11-02%20143420.png?raw=true)
 ![image](https://github.com/joshuaarao42-arch/SysTuklas/blob/main/IMAGES/Screenshot%202026-11-02%20143619.png?raw=true)
-![image]()
+![image](https://github.com/joshuaarao42-arch/SysTuklas/blob/main/IMAGES/Screenshot%202026-11-02%20143619.png?raw=true)
 ![image]()
 
 ## Features
